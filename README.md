@@ -37,7 +37,26 @@ To add our C# Script file to our selected object, click on the C# Script file an
 Stop
 
 ## Program:
+```python
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
 
+public class exp1 : MonoBehaviour
+{
+    // Start is called before the first frame update
+    void Start()
+    {
+        
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        transform.RotateAround(Vector3.right, Vector3.up, 60 * Time.deltaTime);
+    }
+}
+```
 ## Output:
-
+![exp1](https://github.com/Leann4468/Rotating-the-Gaming-Object/assets/121165979/90fed56e-319f-48e2-80b5-a4b9b827269f)
 ## Result:
