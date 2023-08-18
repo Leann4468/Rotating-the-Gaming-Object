@@ -59,4 +59,7 @@ public class exp1 : MonoBehaviour
 ```
 ## Output:
 ![exp1](https://github.com/Leann4468/Rotating-the-Gaming-Object/assets/121165979/90fed56e-319f-48e2-80b5-a4b9b827269f)
+![1](https://github.com/Leann4468/Rotating-the-Gaming-Object/assets/121165979/59ce1179-1f56-4373-9a35-125b759c685a)
+
 ## Result:
+Thus a 3D application for rotating the gaming objects in unity is developed successfully.
